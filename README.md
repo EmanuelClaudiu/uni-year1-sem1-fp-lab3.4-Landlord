@@ -8,4 +8,4 @@ The app can do the following:
 - Obtain different characteristics of the expenses
 - Filter expenses  
   
-Starts with a list of 10 apartments and their respective expenses.  
+Starts with a predefined list of 10 apartments and their respective expenses.  
